@@ -70,10 +70,10 @@ In the example above, there are five incomplete lines:
 <{([{{}}[<[[[<>{}]]]>[]] - Complete by adding ])}>.
 Did you know that autocomplete tools also have contests? It's true! The score is determined by considering the completion string character-by-character. Start with a total score of 0. Then, for each character, multiply the total score by 5 and then increase the total score by the point value given for the character in the following table:
 
-): 1 point.
-]: 2 points.
-}: 3 points.
->: 4 points.
+")": 1 point.
+"]": 2 points.
+"}": 3 points.
+">": 4 points.
 So, the last completion string above - ])}> - would be scored as follows:
 
 Start with a total score of 0.
